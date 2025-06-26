@@ -45,23 +45,3 @@ snake_game/
 ├── style.css       # Styling and responsive design
 └── README.md       # Project documentation
 ```
-
-## 🌐 Live Demo
-
-You can play the game by opening `index.html` in any modern web browser, or visit the live demo: [Your GitHub Pages URL will go here]
-
-## 📱 Mobile Support
-
-The game is fully responsive and includes touch-friendly controls for mobile devices.
-
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for any improvements!
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-Made with ❤️ and JavaScript 
